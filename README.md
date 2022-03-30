@@ -1,4 +1,4 @@
-![Website banner!](img/readme2.jpg)
+![Website banner!](img/readme2.png)
 
 <br>
 
